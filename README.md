@@ -1,4 +1,8 @@
 # -Large-scale-graph-processing
 DBMS TERM PORJECT
 
-This is our dbms term project
+Team members
+
+1. Abhishek Ragala
+2. Vishnu Vardhan
+3. Chenna Keshava Reddy
